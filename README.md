@@ -23,6 +23,7 @@ Contributed by [Theena Dang](maria.cristina.dang@gmail.com)
 
 Initial Advisor with AWS Lex
 
-
+![LEX](./lex.mov)
 
 Advisor using AWS Lex integrated with AWS Lambda
+![LEX + LAMBDA](./lex_and_lambda.mov)
